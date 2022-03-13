@@ -1,6 +1,6 @@
 {
-  "./main.css": "/./main.css",
-  "./main.js": "/./main.js",
-  "./images/logo.png": "/./images/logo.png",
-  "./images/hidden.gif": "/./images/hidden.gif"
+  "./main.css": "./main.css",
+  "./main.js": "./main.js",
+  "./images/logo.png": "./images/logo.png",
+  "./images/hidden.gif": "./images/hidden.gif"
 }
